@@ -27,8 +27,8 @@ global.author = "KENNETH🔞"
 global.packname = "KENNETH🔞"  
 global.myweb = "Enter Your Any Website Profile Link Here"
 global.footer = "©\t" + "Enter Your Watermark Here"
-global.prefa = ['-'] // single prefix
-global.themeemoji = "🎐"
+global.prefa = [🔞] // single prefix
+global.themeemoji = "🔞"
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
 
